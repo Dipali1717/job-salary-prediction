@@ -1,4 +1,5 @@
 Salary Prediction Using Job Title
+
 This project demonstrates a machine learning model to predict salaries based on job titles. It explores the relationship between job titles and salary ranges, using various machine learning techniques for predictive analysis.
 
 Project Overview
